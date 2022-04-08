@@ -1,0 +1,9 @@
+[[AWS_MQTT]]
+arch = "x86_64"
+git-tree-sha1 = "df2acfe5b04ccd7750015245231db08cfee53204"
+libc = "glibc"
+os = "linux"
+
+    [[AWS_MQTT.download]]
+    sha256 = "4ad97fbea7696c003c121ac3b9fb69b7ce148167d72455e8e3005d769344763b"
+    url = "https://github.com/Octogonapus/LibAWSMQTT_jll.jl/releases/download/AWS_MQTT-v0.1.0+0/AWS_MQTT.v0.1.0.x86_64-linux-gnu.tar.gz"
