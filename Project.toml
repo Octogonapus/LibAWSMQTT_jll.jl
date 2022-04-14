@@ -1,6 +1,6 @@
 name = "AWS_MQTT_jll"
 uuid = "5125c1b1-16b4-5643-949e-a836f2cb3912"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
